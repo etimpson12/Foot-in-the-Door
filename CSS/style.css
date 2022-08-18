@@ -1,0 +1,28 @@
+nav {
+    background-image: url(../Images/Background\ Image.png)
+}
+
+.heroSection {
+    background-image: url(../Images/Background\ Image.png);
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: #F0FBF5;
+    margin: auto;
+    width: 75%;
+}
+.jumbotronContent {
+    float: left;
+    width: 50%;
+    
+}
+.jumbotronImg {
+    float: right;
+    width: 30%
+    margin-right: 10%
+}
+img[src="Images/Image 1.png"] {
+    height: 225px;
+    width: auto
+}
