@@ -7,25 +7,20 @@ nav {
     text-align: center;
 }
 
+
 .jumbotron {
-    background-color: #F0FBF5;
     margin: auto;
     width: 75%;
+    background-color: #A8E7D1 !important;
 }
-.jumbotronContent {
-    float: left;
+
+.jumboImg {
+    height: 50%;
     width: 50%;
-    
+    align-items: center;
 }
-.jumbotronImg {
-    float: right;
-    width: 30%
-    margin-right: 10%
-}
-img[src="Images/Image 1.png"] {
-    height: 225px;
-    width: auto
-}
+
+
 
 /*This .space is for nav buttons. It helps spread them apart a little.*/
 .space {
