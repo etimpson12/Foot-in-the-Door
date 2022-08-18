@@ -1,12 +1,27 @@
 nav {
-    background-image: url(../Images/Background\ Image.png)
+    background-image: url(../Images/Background\ Image.png);
 }
 
+.navbar-nav {
+
+}
+
+.h1-heading {
+    font-size: 80px;
+    padding: 10px;
+} 
+
+.h2-heading {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
 
 .heroSection {
     background-image: url(../Images/Background\ Image.png);
     text-align: center;
+    height: 250px;
 }
+
 
 
 .jumbotron {
