@@ -31,7 +31,6 @@ body {
     border-radius: 0.25rem;
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
     position: relative; bottom: -50px;
-
 }
 
 .btn.btn-outline-success.disabled {
@@ -80,7 +79,7 @@ body {
     position: relative; bottom: -20px
 }
 
-img {
+.jumboPic {
     height: 225px;
     width: auto;
     float: right;
@@ -95,24 +94,18 @@ img {
     display: inline-block;
   }
 
-
-  .carousel.slide {
+  .pt-5.pb-5 {
     margin: auto;
-    margin-top: 80px;
     width: 75%;
-    height: 350px;
-    background-color: black;
-}
+    margin-top: 80px;
+    margin-bottom: 80px;
 
-.pt-5.pb-5 {
-    position: absolute;
-    background-color: green;
-    margin-left: 10px;
-    margin-right: 10px;
-    display: inline-flex;
+  }
   
-}
+  .container {
+    display: inline-block;
+  }
 
-.col-md-4.mb-3 {
-
-}
+  .img-fluid {
+    max-width: fit-content;
+  }
