@@ -2,9 +2,11 @@ nav {
     background-image: url(../Images/Background\ Image.png)
 }
 
+/* This is an attempt at giving the site a different font. 
 body {
     font-family: 'Hammersmith One', sans-serif !important;
 }
+*/
 
 .heroSection {
     background-image: url(../Images/Background\ Image.png);
@@ -94,3 +96,19 @@ img {
     display: inline-block;
   }
 
+
+  .carousel.slide {
+    background-color: black;
+    display: inline-block;
+    left: 100px;  /*important */
+    right: 100px;  /*important */
+    margin: 0 auto;  /*important */
+    max-width: 50%;  /*important */
+    min-width: 50%;
+    height: auto;
+    position: absolute;
+}
+
+.carousel-control-next-icon {
+    
+}
