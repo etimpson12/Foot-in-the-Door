@@ -29,3 +29,10 @@ img[src="Images/Image 1.png"] {
     height: 225px;
     width: auto;
 }
+
+/*This .space is for nav buttons. It helps spread them apart a little.*/
+.space {
+    width: 10px;
+    height: auto;
+    display: inline-block;
+  }
