@@ -14,20 +14,26 @@ nav {
     margin: auto;
     margin-top: 80px;
     width: 75%;
+    height: 350px;
+    background-color: #A8E7D1 !important;
 }
-.jumbotronContent {
-    float: left;
-    width: 50%;
-    
+
+.jumboP {
+    width: 650px;
+    word-wrap: break-word;
+    position: relative; bottom: -20px;
 }
-.jumbotronImg {
-    float: right;
-    width: 30%;
-    margin-right: 10%;
+
+.btn.btn-lg.btn-primary {
+    position: relative; bottom: -20px
 }
-img[src="Images/Image 1.png"] {
+
+img {
     height: 225px;
     width: auto;
+    float: right;
+    flex-wrap: wrap;
+    position: relative; top: -200px;
 }
 
 /*This .space is for nav buttons. It helps spread them apart a little.*/
