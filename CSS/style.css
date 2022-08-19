@@ -59,8 +59,7 @@ body {
 
 .h2-heading {
     position: relative; bottom: -30px;
-    font-size: 25px;
-   
+    font-size: 25px;  
 }
 
 .jumbotron {
@@ -98,17 +97,22 @@ img {
 
 
   .carousel.slide {
+    margin: auto;
+    margin-top: 80px;
+    width: 75%;
+    height: 350px;
     background-color: black;
-    display: inline-block;
-    left: 100px;  /*important */
-    right: 100px;  /*important */
-    margin: 0 auto;  /*important */
-    max-width: 50%;  /*important */
-    min-width: 50%;
-    height: auto;
-    position: absolute;
 }
 
-.carousel-control-next-icon {
-    
+.pt-5.pb-5 {
+    position: absolute;
+    background-color: green;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-flex;
+  
+}
+
+.col-md-4.mb-3 {
+
 }
