@@ -109,3 +109,54 @@ body {
   .img-fluid {
     max-width: fit-content;
   }
+
+  footer{
+    background-image: url(../Images/Background\ Image.png);
+     padding:70px 0px;
+}
+footer ul li{
+    padding:5px 0px;
+}
+.footer-logo {
+    padding-top: 20%;
+}
+.footer-logo span {
+    font-family: sans-serif;
+    color: black;
+    font-weight: 800;
+    font-size: 38px;
+}
+.column-1-content span , .column-2-content span{
+   color: black;
+   font-family: sans-serif;
+   font-weight: 800;
+   padding-bottom: 10px;
+   margin-top: 30px;
+   display: block;
+   font-size: 18px;
+   letter-spacing: 3px;
+}
+.column-1-content li a , .column-2-content li a{
+    color: black;
+    font-family: serif;
+    letter-spacing: 2px;
+    text-decoration:none;
+    font-size:15px;
+}
+.footer-logo , .column-1-content , .column-2-content {
+    list-style: none;
+}
+.social li{
+    float:left;
+}
+.fa{
+    color:black;
+    margin-right: 15px;
+    font-size:14px;
+}
+.footer-logo img {
+    margin-top: 100%;
+    width: 250px;
+    height: auto;
+    float: left;
+}
