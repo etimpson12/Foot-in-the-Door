@@ -105,11 +105,9 @@ body {
     gap: 4px;
     align-items: center;
     justify-items: center;
+    padding: 64px;
   }
   
-.col-12 {
-   
-}
 
   .container {
     display: inline-block;
