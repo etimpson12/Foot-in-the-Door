@@ -94,11 +94,13 @@ body {
     display: inline-block;
   }
 
-.testy {
+  .testy {
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
+
 
   .pt-5.pb-5 {
     margin: auto;
@@ -174,6 +176,16 @@ footer ul li{
 }
 
 .jumbotron2 {
+    margin: auto;
+    padding: 4rem 2rem;
+    margin-bottom: 2rem;
+    background-color: #FDF2D3;
+    border-radius: 0.3rem;
+    margin-top: 80px;
+    width: 75%;
+}
+
+.jumbotron3 {
     margin: auto;
     padding: 4rem 2rem;
     margin-bottom: 2rem;
