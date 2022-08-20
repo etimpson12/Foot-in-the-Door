@@ -94,6 +94,12 @@ body {
     display: inline-block;
   }
 
+.testy {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
   .pt-5.pb-5 {
     margin: auto;
     width: 75%;
