@@ -99,9 +99,18 @@ body {
     width: 75%;
     margin-top: 80px;
     margin-bottom: 80px;
-
+    background-color: beige;
+    display: grid;
+    grid-auto-flow: column;
+    gap: 4px;
+    align-items: center;
+    justify-items: center;
   }
   
+.col-12 {
+   
+}
+
   .container {
     display: inline-block;
   }
