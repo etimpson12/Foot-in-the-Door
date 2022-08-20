@@ -94,7 +94,7 @@ body {
     display: inline-block;
   }
 
-  .pt-5 .pb-5 {
+  .pt-5.pb-5 {
     margin: auto;
     width: 75%;
     margin-top: 80px;
