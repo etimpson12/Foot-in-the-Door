@@ -133,7 +133,9 @@ body {
      padding:7px 0px;
 } */
 
-
+.container1 {
+    margin: 25px;
+}
 
 .jumbotron2 {
     margin: auto;
