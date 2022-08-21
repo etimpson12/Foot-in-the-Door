@@ -122,18 +122,17 @@ body {
   }
   
 
-  .container {
-    display: inline-block;
-  }
+
 
   .img-fluid {
     max-width: fit-content;
   }
 
-footer{
+/* footer{
     background-image: url(../Images/Background\ Image.png);
      padding:7px 0px;
-}
+} */
+
 
 
 .jumbotron2 {
