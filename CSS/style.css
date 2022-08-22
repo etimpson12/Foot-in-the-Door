@@ -264,3 +264,89 @@ body {
     width: 100px;
     height: 100px;
 }
+
+/* test
+    box-sizing: border-box;
+  }
+  
+  .left {
+    background-color: #2196F3;
+    padding: 20px;
+    float: left;
+    width: 20%; /* The width is 20%, by default 
+  }
+
+  .main {
+    background-color: #f1f1f1;
+    padding: 20px;
+    float: left;
+    width: 60%; /* The width is 60%, by default 
+  }
+  
+  .right {
+    background-color: #04AA6D;
+    padding: 20px;
+    float: left;
+    width: 20%; /* The width is 20%, by default 
+  }
+  
+
+@media screen and (max-width: 800px) {
+    .left, .main, .right {
+      width: 100%;
+    }
+} */ 
+
+
+/* another test */
+
+* {
+    box-sizing: border-box;
+  }
+  
+  p {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #6439a9;
+  }
+  
+  .container {
+    padding: 100px 30px;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  
+  // Relevant styles
+  .image-stack {
+    position: relative;
+    width: 7%;
+  }
+  
+  .image-stack__item--bottom {
+    position: absolute;
+    right: -14rem;
+    width: 80%; // this is an arbitrary width, depends on the design
+    z-index: 1;
+  }
+  
+  .image-stack__item--top {
+    padding-top: 20px; // arbitrary value
+    padding-right: 20%; // arbitrary value
+    width: 80%; // arbitrary value
+  }
+  
+  .girl{
+    width: 25%;
+    display: block;
+  }
+
+  .water {
+    width: 25% ;
+    display: block;
+  }
+
+  @media screen and (max-width: 700px) {
+    .row, .navbar {   
+      flex-direction: column;
+    }
