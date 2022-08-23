@@ -74,9 +74,7 @@ body {
 }
 
 .h1.jumboH {
-    display: block;
-    align-items: center;
-    text-align: center;
+    float: left, 20rem;
 }
 
 .container.mb-4{
