@@ -73,6 +73,12 @@ body {
     background-color: #A8E7D1 !important;
 }
 
+.h1.jumboH {
+    display: block;
+    align-items: center;
+    text-align: center;
+}
+
 .container.mb-4{
     width: 75%;
 }
