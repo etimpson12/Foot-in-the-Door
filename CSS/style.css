@@ -90,6 +90,7 @@ body {
 .jumboH.mb-4{
     color: red;
    background-color: black;
+   padding-left: 20px;
 }
 
 .container.mb-4{
