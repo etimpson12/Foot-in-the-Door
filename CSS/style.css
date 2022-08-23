@@ -36,6 +36,10 @@ body {
     position: relative; bottom: -50px;
 }
 
+.flippingCards.row {
+    gap: 10px;
+}
+
 .btn.btn-outline-success.disabled {
     color: black;
     background-color: #FDF2D3;
