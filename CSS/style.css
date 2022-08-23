@@ -74,11 +74,13 @@ body {
 }
 
 .Spotify {
-    margin: 0px 50px 50px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
-.jumboH{
-    color: yellow;
+.jumboH.mb-4{
+    color: red;
+    margin-left: 65px;
 }
 
 .container.mb-4{
