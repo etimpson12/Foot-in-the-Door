@@ -79,10 +79,9 @@ body {
     margin-right: 30px;
 }
 
-.jumboH{
+.jumboH.mb-4{
     color: red;
-    margin-left: 6rem;
-    margin-bottom: -35rem;
+   background-color: black;
 }
 
 .container.mb-4{
