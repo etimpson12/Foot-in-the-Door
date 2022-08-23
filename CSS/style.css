@@ -37,7 +37,7 @@ body {
 }
 
 .flippingCards.row {
-    gap: 10px;
+    align-items: center;
 }
 
 .btn.btn-outline-success.disabled {
