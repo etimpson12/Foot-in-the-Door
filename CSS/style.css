@@ -79,6 +79,10 @@ body {
     margin-right: 30px;
 }
 
+.SpotifyP {
+    text-align: left;
+}
+
 .jumboH.mb-4{
     color: red;
    background-color: black;
