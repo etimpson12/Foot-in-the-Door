@@ -39,11 +39,11 @@ body {
 .row {
     display: flex;
     justify-content: center;
+    gap: 20px;
 }
 
 .flippingCards.row {
     align-items: center;
-    gap: 10px;
 }
 
 .btn.btn-outline-success.disabled {
@@ -99,8 +99,8 @@ body {
 .jumboH.mb-4{
     color: red;
    background-color: green;
-   padding-left: 150px;
-   padding-bottom: -150px;
+   padding-left: 350px;
+   margin-bottom: -150px;
 }
 
 .container.mb-4{
