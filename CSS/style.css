@@ -104,7 +104,7 @@ body {
 
 .jumboH.mb-4{
    padding-left: 350px;
-   margin-bottom: -150px !important;
+   margin-bottom: -125px !important;
 }
 
 .container.mb-4{
@@ -299,7 +299,7 @@ position: relative; bottom: 22rem; right: 15rem;
 
 .SJ {
     margin-left: 17rem;
-    margin-bottom: -3rem;
+    margin-bottom: 2.5rem !important;
 }
 
 /* Three flip cards*/
