@@ -80,7 +80,7 @@ body {
 
 .jumbotron {
     margin: auto;
-    margin-top: 100px;
+    margin-top: 160px;
     margin-bottom: 80px;
     width: 55%;
     max-height: 350px;
@@ -104,7 +104,8 @@ body {
 
 .jumboH.mb-4{
    padding-left: 350px;
-   margin-bottom: -125px !important;
+   margin-bottom:-45px !important;
+   padding-bottom: 2rem;
 }
 
 .footerText {
@@ -274,7 +275,7 @@ position: relative; bottom: 22rem; right: 15rem;
 .jumbotron3 {
     margin: auto;
     padding: 4rem 2rem;
-    margin-bottom: 2rem;
+    margin-bottom: 5rem;
     border-radius: 0.3rem;
     margin-top: 80px;
     width: 75%;
@@ -285,20 +286,18 @@ position: relative; bottom: 22rem; right: 15rem;
     padding: 4rem 2rem;
     margin-bottom: 2rem;
     border-radius: 0.3rem;
-    margin-top: 80px;
+    margin-top: -80px;
     width: 75%;
 }
 
 
 .jumbotron4 {
     margin: auto;
-    padding: 4rem 2rem;
-    margin-bottom: 5rem;
+    padding: 4rem 1rem;
     background-color: #A8E7D1;
     border-radius: 0.3rem;
-    margin-top: 80px;
+    margin-top: 180px;
     width: 55%;
-  
 }
 
 .SJ {
