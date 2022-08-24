@@ -46,6 +46,10 @@ body {
     align-items: center;
 }
 
+.flip-card-back {
+    background-color: #FDF2D3 !important;
+}
+
 .btn.btn-outline-success.disabled {
     color: black;
     background-color: #FDF2D3;
