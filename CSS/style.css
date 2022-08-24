@@ -47,7 +47,7 @@ body {
 }
 
 .flip-card-back {
-    background-color: #020202 !important;
+    background-color: #EEF3F3 !important;
 }
 
 .btn.btn-outline-success.disabled {
@@ -88,12 +88,14 @@ body {
 }
 
 .Spotify {
+    color:#2E2E2E;
     margin-top: 20px;
     margin-left: 30px;
     margin-right: 30px;
 }
 
 .SpotifyP {
+    color:#2E2E2E;
     text-align: left;
     margin-top: 20px;
     margin-left: 30px;
@@ -139,7 +141,8 @@ body {
 }
 
 .btn.btn-lg.btn-primary:hover {
-    background-color: yellow;
+    background-color: #FDF2D3;
+    border-color: #A8E7D1;
 }
 
 .jumboPic {
