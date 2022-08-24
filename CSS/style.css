@@ -107,6 +107,10 @@ body {
    margin-bottom: -125px !important;
 }
 
+.footerText {
+    padding-left: 90px;
+}
+
 .container.mb-4{
     width: 75%;
 }
