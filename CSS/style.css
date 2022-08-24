@@ -39,7 +39,7 @@ body {
 .row {
     display: flex;
     justify-content: center;
-    gap: 100px !important;
+    gap: 10rem !important;
    
 }
 
@@ -106,7 +106,7 @@ body {
     color: red;
    background-color: green;
    padding-left: 350px;
-   margin-bottom: -150px;
+   margin-bottom: -150px !important;
 }
 
 .container.mb-4{
