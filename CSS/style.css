@@ -39,8 +39,6 @@ body {
 .row {
     display: flex;
     justify-content: center;
-    gap: 10rem !important;
-   
 }
 
 .flippingCards.row {
