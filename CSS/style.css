@@ -136,6 +136,10 @@ body {
     position: relative; bottom: -20px; left: 15rem;
 }
 
+.btn.btn-lg.btn-primary:hover {
+    background-color: yellow;
+}
+
 .jumboPic {
     width: 45%;
     height: 25%;
