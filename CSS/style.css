@@ -39,11 +39,13 @@ body {
 .row {
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 100px !important;
+   
 }
 
 .flippingCards.row {
     align-items: center;
+    
 }
 
 .flip-card-back {
