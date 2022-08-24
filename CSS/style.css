@@ -41,9 +41,9 @@ body {
     justify-content: center;
 }
 
-.flippingCards.row {
-    align-items: center;
-    
+.flip.row {
+    gap: 11rem;
+    background-color: black;
 }
 
 .flip-card-back {
